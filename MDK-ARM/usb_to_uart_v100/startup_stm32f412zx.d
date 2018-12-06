@@ -1,1 +1,0 @@
-usb_to_uart_v100\startup_stm32f412zx.o: startup_stm32f412zx.s
